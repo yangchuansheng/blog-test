@@ -149,16 +149,6 @@
     </item>
     
     <item>
-      <title>calico Router reflection(RR) 模式介绍及部署</title>
-      <link>https://icloudnative.io/posts/calico-rr/</link>
-      <pubDate>Thu, 01 Feb 2018 11:03:49 +0000</pubDate>
-      
-      <guid>https://icloudnative.io/posts/calico-rr/</guid>
-      <description>名词解释 # endpoint：接入到网络中的设备称为 endpoint :heart: AS：</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icloudnative.io/posts/calico-rr/featured.jpg" />
-    </item>
-    
-    <item>
       <title>Device Mapper基础教程：Docker 中使用 devicemapper 存储驱动</title>
       <link>https://icloudnative.io/posts/use-devicemapper/</link>
       <pubDate>Mon, 22 Jan 2018 16:17:11 +0800</pubDate>

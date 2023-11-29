@@ -21,26 +21,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://icloudnative.io/tags/linux/</loc>
-    <lastmod>2023-11-10T14:06:37+08:00</lastmod>
+    <loc>https://icloudnative.io/tags/google/</loc>
+    <lastmod>2023-11-24T09:06:37+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://icloudnative.io/posts/</loc>
     <lastmod>2023-11-25T13:02:20+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://icloudnative.io/posts/the-history-of-red-hat/</loc>
-    <lastmod>2023-11-10T14:06:37+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://icloudnative.io/tags/redhat/</loc>
-    <lastmod>2023-11-10T14:06:37+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -57,14 +45,38 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://icloudnative.io/posts/reflecting-on-18-years-at-google/</loc>
+    <lastmod>2023-11-24T09:06:37+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://icloudnative.io/categories/tech-social/</loc>
-    <lastmod>2023-11-10T14:06:37+08:00</lastmod>
+    <lastmod>2023-11-24T09:06:37+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://icloudnative.io/</loc>
     <lastmod>2023-11-25T13:02:20+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://icloudnative.io/tags/linux/</loc>
+    <lastmod>2023-11-10T14:06:37+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://icloudnative.io/posts/the-history-of-red-hat/</loc>
+    <lastmod>2023-11-10T14:06:37+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://icloudnative.io/tags/redhat/</loc>
+    <lastmod>2023-11-10T14:06:37+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

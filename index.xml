@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-    <lastBuildDate>Fri, 10 Nov 2023 14:06:37 +0800</lastBuildDate><atom:link href="https://icloudnative.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Nov 2023 09:06:37 +0800</lastBuildDate><atom:link href="https://icloudnative.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>五年磨一剑——Sealos 云操作系统正式发布！</title>
       <link>https://icloudnative.io/posts/sealos/</link>
@@ -36,6 +36,16 @@
       <guid>https://icloudnative.io/posts/linux-circumvent/</guid>
       <description>Github 地址：Linux 和 MacOS 设备智能分流方案 本来我是决定不再写这样</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icloudnative.io/posts/linux-circumvent/featured.png" />
+    </item>
+    
+    <item>
+      <title>回望我在谷歌的 18 年：屠龙少年终成恶龙</title>
+      <link>https://icloudnative.io/posts/reflecting-on-18-years-at-google/</link>
+      <pubDate>Fri, 24 Nov 2023 09:06:37 +0800</pubDate>
+      
+      <guid>https://icloudnative.io/posts/reflecting-on-18-years-at-google/</guid>
+      <description>这又是一个“屠龙少年 终成恶龙” 的故事，令人唏嘘，这篇文章详细</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icloudnative.io/posts/reflecting-on-18-years-at-google/featured.jpg" />
     </item>
     
     <item>
@@ -1264,7 +1274,7 @@
       <pubDate>Tue, 18 Dec 2018 16:15:12 +0800</pubDate>
       
       <guid>https://icloudnative.io/posts/optimizing-kubernetes-resource-allocation-production/</guid>
-      <description></description>
+      <description>原文链接：Optimizing Kubernetes resource allocation in production 我和 Kubernetes 的初次接触就涉</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://icloudnative.io/posts/optimizing-kubernetes-resource-allocation-production/featured.jpg" />
     </item>
     
